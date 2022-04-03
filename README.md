@@ -1,7 +1,3 @@
-# Survey
-This repository is no longer updated.
-The survey is done in an internal scrapbox.
-
 ## 方針
 - 読む予定の論文を[issue](https://github.com/Shoichi-Hasegawa0628/summary_paper/issues)にリストアップ    
   - 終わったものからメモを残してclose
